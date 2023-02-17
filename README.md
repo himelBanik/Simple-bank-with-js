@@ -8,4 +8,7 @@ Login and simple banking mechanism <br />
 
 - How to get elements and throw an event
 - Changing and updating values to make the website more dyanmic
+- Alerts
+- Works for different test case (Invalid login, invalid withdraw, insufficient balance)
 - Currently not mobile responsive
+
